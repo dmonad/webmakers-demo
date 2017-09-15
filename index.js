@@ -15,10 +15,11 @@ Y({
   },
   connector: {
     name: 'websockets-client',
-    room: 'webmeetup-debug',
+    room: 'webmeetup-debug33',
     url: 'https://y-websockets-server-karpclbnxp.now.sh'
   },
   share: {
+    textarea: 'Text'
   },
   sourceDir: null
 }).then(function (y) {
